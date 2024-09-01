@@ -1,0 +1,10 @@
+
+easy_admin:
+    site_name: 'EcoIT Administration'
+    design:
+        menu: 'vertical'
+    entities:
+        - App\Entity\Instructeur
+        - App\Entity\Formation
+        - App\Entity\Section
+        - App\Entity\Leçon
